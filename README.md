@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Shubham Bankar,
-- 👀 I’m interested in Statistics,MS Excel, Machine Learning and Big Data,
-- 🌱 I’m currently pursuing PGD in Data Analytics,
-- 💞️ I’m looking to collaborate on ML, Big Data Hadoop,
+- 👀 interested in Statistics,MS Excel, Machine Learning and Big Data,
+- 🌱 Statistics Graduate,
+- 🌱 currently pursuing PGD in Data Analytics,
+- 💞️ looking to collaborate on ML, Big Data Hadoop,
 - 📫 connect with me on shubhamb21398@gmail.com
 
 <!---
